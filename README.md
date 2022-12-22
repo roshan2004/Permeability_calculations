@@ -1,4 +1,4 @@
-# Permeability_calculations
+# Permeability calculations  
 Permeability calculations from the pmfs, and diffusion coeffcients  
 The results of these calculations are now published in this paper:   
 Interaction of Phthalates with Lipid Bilayer Membranes
